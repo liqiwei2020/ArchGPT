@@ -1,4 +1,4 @@
-# Arch-GPT | A fine-tuned large language model for architecture.
+# ArchGPT | A fine-tuned large language model for architecture.
 Arch-GPT provides powerful analytical and answer tools for architectural professionals through deep learning and advanced natural language processing technologies. 
 
 It delves into diverse **design** narratives in architecture, interprets complex **codes**, optimizes architectural **workflows**, expands knowledge of architectural **software**, and deepens the understanding of architectural **theories**.
